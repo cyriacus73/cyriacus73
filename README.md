@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![trophy](https://github-profile-trophy.vercel.app/cyriacus73=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/cyriacus73ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 🔭 I’m currently working on A Property Mangament platform
