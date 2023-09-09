@@ -1,24 +1,19 @@
-### Hi there 👋
+<p align="center">
+  <a href="https://github-profile-trophy.vercel.app/?username=cyriacus73&theme=onedark">
+    <img src="https://github-profile-trophy.vercel.app/?username=cyriacus73&theme=onedark" alt="Trophy" />
+  </a>
+</p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=cyriacus73&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<h1 align="center">Hi there 👋</h1>
 
+<p align="center">🔭 I’m currently working on A Property Management platform</p>
+<p align="center">🌱 I’m currently learning React Native</p>
+<p align="center">👯 I’m looking to collaborate on Fintech Projects</p>
+<p align="center">💬 Ask me about React JS, C++, JS, Tailwind CSS, HTML, NEXT</p>
+<p align="center">📫 How to reach me: cyriacuselochukwu1@gmail.com</p>
 
-
-
-🔭 I’m currently working on A Property Mangament platform
-
-🌱 I’m currently learning React Native
-
-👯 I’m looking to collaborate on Fintech Projects
-
-👨‍💻 All of my projects are available at https://olamidepro.netlify.app
-
-💬 Ask me about React JS, C++, JS, Tailwind CSS, HTML, NEXT
-
-📫 How to reach me cyriacuselochukwu1@gmail.com
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
   </a>
@@ -45,9 +40,15 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=cyriacus73&count_private=true&theme=tokyonight&show_icons=true" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyriacus73&langs_count=5&theme=tokyonight" alt="Language Stats" />
+  </a>
+</p>
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=cyriacus73&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cyriacus73&langs_count=5&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cyriacus73&" alt="cyriacus73" /></p>
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cyriacus73" alt="GitHub Streak" />
+</p>
