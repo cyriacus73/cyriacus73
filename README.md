@@ -2,9 +2,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=cyriacus73&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=cyriacus73&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cyriacus73&langs_count=5&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
@@ -20,6 +17,9 @@
 
 📫 How to reach me cyriacuselochukwu1@gmail.com
 
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=cyriacus73&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cyriacus73&langs_count=5&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **cyriacus73/cyriacus73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
