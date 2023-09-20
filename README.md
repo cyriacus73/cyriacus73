@@ -9,7 +9,7 @@
 <p align="left">🔭 I’m currently working on A Property Management platform</p>
 <p align="left">🌱 I’m currently learning React Native</p>
 <p align="left">👯 I’m looking to collaborate on Fintech Projects</p>
-<p align="left">💬 Ask me about React JS, C++, JS, Tailwind CSS, HTML, NEXT</p>
+<p align="left">💬 Ask me about React JS, C, C#, C++, JS, Tailwind CSS, HTML, NEXT</p>
 <p align="left">📫 How to reach me: cyriacuselochukwu1@gmail.com</p>
 
 <h3 align="center">Languages and Tools:</h3>
