@@ -53,5 +53,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cyriacus73" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cyriacus73&theme=synthwave" alt="GitHub Streak" />
 </p>
