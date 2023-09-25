@@ -1,9 +1,4 @@
-<p align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=cyriacus73&show_icons=true&theme=dark#gh-dark-mode-only"/>
-  <a href="https://github-profile-trophy.vercel.app/?username=cyriacus73&theme=synthwave">
-    <img src="https://github-profile-trophy.vercel.app/?username=cyriacus73&theme=synthwave" alt="Trophy" />
-  </a>
-</p>
+
 
 <h1 align="center">Hi there 👋</h1>
 
@@ -38,6 +33,13 @@
   </a>
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github-readme-stats.vercel.app/api?username=cyriacus73&show_icons=true&theme=dark#gh-dark-mode-only"/>
+  <a href="https://github-profile-trophy.vercel.app/?username=cyriacus73&theme=synthwave">
+    <img src="https://github-profile-trophy.vercel.app/?username=cyriacus73&theme=synthwave" alt="Trophy" />
   </a>
 </p>
 
