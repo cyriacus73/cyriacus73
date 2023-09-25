@@ -45,10 +45,10 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cyriacus73&show_icons=true&locale=en&layout=compact" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cyriacus73&show_icons=true&locale=en&layout=compact&theme=synthwave" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=cyriacus73&show_icons=true&locale=en" alt="Language Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=cyriacus73&show_icons=true&locale=en&theme=synthwave" alt="Language Stats" />
   </a>
 </p>
 
