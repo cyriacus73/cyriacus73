@@ -37,6 +37,7 @@
 </p>
 
 <p align="center">
+  <a href= "https://github-profile-trophy.vercel.app/?cyriacus73=ryo-ma&theme=onedark"/>
   <a href="https://github-readme-stats.vercel.app/api?username=cyriacus73&show_icons=true&theme=dark#gh-dark-mode-only"/>
   <a href="https://github-profile-trophy.vercel.app/?username=cyriacus73&theme=synthwave">
     <img src="https://github-profile-trophy.vercel.app/?username=cyriacus73&theme=synthwave" alt="Trophy" />
