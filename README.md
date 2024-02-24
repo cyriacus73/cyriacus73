@@ -2,11 +2,7 @@
 
 <h1 align="center">Hi there 👋</h1>
 
-<p align="left">🔭 I’m currently working on A Property Management platform</p>
-<p align="left">🌱 I’m currently learning React Native</p>
-<p align="left">👯 I’m looking to collaborate on Fintech Projects</p>
-<p align="left">💬 Ask me about C, C#, C++, JS, Tailwind, React JS, NEXT</p>
-<p align="left">📫 How to reach me: cyriacuselochukwu1@gmail.com</p>
+<p align="left"> I exist</p>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
